@@ -1,0 +1,23 @@
+{
+  "q71_patientGender":"${gender}",
+  "q45_patientName[first]":"test",
+  "q45_patientName[last]":"automation",
+  "q46_patientBirth[month]":"January",
+  "q46_patientBirth[day]":"6",
+  "q46_patientBirth[year]":"1960",
+  "q72_patientHeight72":"178",
+  "q73_patientWeight73":"72",
+  "q74_patientEmail":"test@gmail.com",
+  "q50_reasonFor50":"general check up",
+  "q51_pleaseList":"none",
+  "q52_haveYou52[]":"Anemia Asthma  Arthritis Diabetes  Emotional Disorder",
+  "q55_otherIllnesses":"none",
+  "q69_pleaseList69":"none",
+  "q68_pleaseList68":"none",
+  "q80_exercise":"1-2 days",
+  "q81_eatingFollowing":"I have a loose diet",
+  "q76_alcoholConsumption":"I don't drink",
+  "q77_caffeineConsumption77":"1-2 cups/day",
+  "q78_doYou":"No",
+  "q17_includeOther":"${comment}"
+}
